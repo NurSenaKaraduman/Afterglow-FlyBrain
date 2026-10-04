@@ -1,0 +1,7 @@
+flybrain
+numpy
+pandas
+pygame
+matplotlib
+pyarrow
+openpyxl

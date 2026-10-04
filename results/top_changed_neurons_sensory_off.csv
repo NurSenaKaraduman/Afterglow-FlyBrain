@@ -1,0 +1,16 @@
+neuron_index,cell_type,side,superclass,control_spikes,stimulus_spikes,difference
+139547,CB3417,R,cb_intrinsic,104,87,-17
+112359,CB2845,L,cb_intrinsic,104,87,-17
+43542,CB2571b,L,cb_intrinsic,126,111,-15
+46105,CB3417,L,cb_intrinsic,125,110,-15
+85790,CB1673,L,cb_intrinsic,114,128,14
+14835,"v2LN42b,v2LN42c",L,cb_intrinsic,146,132,-14
+55809,KCg-m,R,cb_intrinsic,136,149,13
+52357,M_vPNml77,L,cb_intrinsic,69,56,-13
+135641,lLN2X12,L,cb_intrinsic,134,122,-12
+23565,M_lvPNm43,L,cb_intrinsic,100,89,-11
+2541,lLN2X12,L,cb_intrinsic,112,101,-11
+164627,IN09A005,R,vnc_intrinsic,86,75,-11
+74840,CB3326,L,cb_intrinsic,125,114,-11
+136,AN_multi_124,R,ascending_neuron,116,105,-11
+7354,VP1d_il2PN,R,cb_intrinsic,90,80,-10

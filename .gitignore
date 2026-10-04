@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw connectome datasets
+data/raw/
+
+# Generated / large brain arrays
+data/*.npz
+
+# Intermediate FlyPaint training screenshots
+results/flypaint_training/trial_[0-9][0-9].png
+
+# Temporary files
+*.tmp
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,16 @@
+neuron_index,cell_type,side,superclass,control_spikes,stimulus_spikes,difference
+8472,v2LN3A1_b,L,cb_intrinsic,93,134,41
+123967,ORN_VM4,R,cb_sensory,88,128,40
+131247,ORN_VA3,UNKNOWN,cb_sensory,149,109,-40
+1054,M_spPN4t9,R,cb_intrinsic,104,143,39
+6341,l2LN23,R,cb_intrinsic,137,100,-37
+123490,ORN_VL2a,UNKNOWN,cb_sensory,112,78,-34
+124735,ORN_VM3,UNKNOWN,cb_sensory,103,137,34
+124763,ORN_V,R,cb_sensory,139,106,-33
+14540,v2LN3A1_a,R,cb_intrinsic,102,135,33
+124233,ORN_V,R,cb_sensory,119,88,-31
+83735,"CB1490,CB2201",R,cb_intrinsic,103,134,31
+73021,CB1515,L,cb_intrinsic,104,134,30
+119588,ORN_VM3,R,cb_sensory,116,86,-30
+5852,l2LN23,R,cb_intrinsic,148,120,-28
+160576,TRN_VP1m,L,cb_sensory,103,129,26

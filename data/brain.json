@@ -1,0 +1,19 @@
+{
+  "neurons": 166700,
+  "connections": 25582938,
+  "photoreceptors": 6006,
+  "groups": {
+    "forward_L": 1,
+    "forward_R": 1,
+    "steer_L": 1,
+    "steer_R": 1,
+    "escape_L": 1,
+    "escape_R": 1,
+    "backward_L": 2,
+    "backward_R": 2,
+    "punch_L": 3,
+    "punch_R": 3,
+    "kick_L": 1,
+    "kick_R": 1
+  }
+}
